@@ -5,7 +5,7 @@ elise78612@gmail.com | (714)-813-5588 | [Github](https://github.com/eliselin)
 
 Experience
 ----------
-**VCA Inc.**| Santa Monica , CA
+**VCA Inc.** | Santa Monica, CA
 *Staff Accountant* (July 2017 - January 2019)
 
 * Trained hospital managers in assigned regions(75+ hospitals) on cashiering procedure in compliance with company  policies.
@@ -55,6 +55,6 @@ Education
 
 Skills
 ------
-**Accounting System:**  Woofware, Ascent, Lawson, Oracle, Glovia, Peachtree Accounting Software, QuickBooks, Mas90, FMS2000 (FreigthStream), SAP
-**Microsoft Business Suite:** Excel, Word, PowerPoint
+**Accounting System:**  Woofware, Ascent, Lawson, Oracle, Glovia, Peachtree Accounting Software, QuickBooks, Mas90, FMS2000 (FreigthStream), SAP  
+**Microsoft Business Suite:** Excel, Word, PowerPoint  
 **Language:** Chinese, English
